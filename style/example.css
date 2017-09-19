@@ -1,0 +1,50 @@
+/* General Styles */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  /*fonts applied to entire body*/
+}
+h1, h2, h3, h4, h5, h6 {
+  /*fonts i want for my headings*/
+  /* font styles i want for my headings*/
+}
+a {
+  /*remove underline*/
+  /*change color*/
+}
+a:hover {
+  /*styles for link on hover*/
+}
+
+/* Header Styles */
+header {
+  /*background styles*/
+  /*apply padding or margin*/
+}
+nav {
+  /*styles for the nav*/
+  /*background color*/
+  /*center or align text*/
+}
+nav a {
+  /*styles for links in nav*/
+}
+nav a:hover {
+  /*styles for links in nav on hover*/
+}
+
+/* First Section Styles*/
+
+/* Footer Styles */
+form {
+
+}
+input {
+
+}
+button {
+  
+}
